@@ -1,2 +1,2 @@
-# C-21-
-Boxes and colors
+# p5.play-boilerplate
+Boiler plate for p5.play
